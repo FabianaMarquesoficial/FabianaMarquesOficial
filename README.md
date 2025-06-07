@@ -29,6 +29,5 @@
   <a href="https://www.tiktok.com/@fabianamarques.oficial" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
-  ![Snake animation](https://github.com/FabianaMarquesoficial/fabianamarques/blob/output/github-contribution-grid-snake.svg)
-
+ 
 </div>
